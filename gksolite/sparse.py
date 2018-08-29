@@ -3,7 +3,7 @@ class SetGol(object):
     Game of Life implemented via sets
 
     :param board: the initial state of the board
-    :type board: :py:class:`gksol.boards.PaddedBoard` or List[List[int]]
+    :type board: :py:class:`gksolite.boards.PaddedBoard` or List[List[int]]
 
     .. describe:: gol[n]
 
